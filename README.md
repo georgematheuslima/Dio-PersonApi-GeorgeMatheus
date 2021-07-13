@@ -1,6 +1,7 @@
 ### Olá 👋
 Este repositório está destinado ao projeto Person API, ministrado pela DIO (Digital Innovation One), durante o bootcamp .JAVA 
-O projeto foi desenvolvido em conjunto ao professor Rodrigo Peleias (https://github.com/rpeleias), durante o bootecamp da DIO/ GFT
+O projeto foi desenvolvido em conjunto ao professor Rodrigo Peleias (https://github.com/rpeleias), durante o bootecamp da DIO/ GF
+
 - Neste projeto, foi desenvolvido um pequeno sistema para gerenciar pessoas, utilizando API REST, criada com Spring Boot
   
 - Durante o curso, fora desenvolvidos e abordados os seguintes Tópicos:
